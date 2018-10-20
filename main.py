@@ -76,6 +76,8 @@ generation = Generation(4)
 generation.set_generation(items)
 generation.print_generation()
 
+print ("try")
+
 
 
 
